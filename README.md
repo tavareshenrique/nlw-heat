@@ -30,7 +30,7 @@
 - [Executando](#construction_worker-executando)
   - [NodeJS](#nodejs)
   - [ReactJS](#reactjs)
-  - [React Native](#react_native)
+  - [React Native](#react-native)
   - [Elixir](#elixir)
 - [Autores](#computer-autores)
 - [Licença](#closed_book-licença)
