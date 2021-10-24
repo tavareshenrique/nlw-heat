@@ -17,7 +17,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-E859F9">
 </p>
 
-> <b>NLW Heat Impulse</b> é um projeto construído utilizando React, Node, React Native e Elixir durante a NLW Heat da Rocketseat. Esse projeot consiste em um sistema de envios de feedbacks para o DoWhile 2021.
+> <b>NLW Heat Impulse</b> é um projeto construído utilizando React, Node, React Native e Elixir durante a NLW Heat da Rocketseat. Esse projeto consiste em um sistema de envios de feedbacks para o DoWhile 2021.
 
 <div align="center">
   <sub>O <strong>NLW Heat Impulse</strong> foi desenvolvido com 💜 pelo
